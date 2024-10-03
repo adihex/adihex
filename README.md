@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Golang, Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://adihex.github.io/minimal-developer-portfolio](https://adihex.github.io/minimal-developer-portfolio)
+- 👨‍💻 Some of my projects are available at [https://adihex.github.io/minimal-developer-portfolio](https://adihex.github.io/minimal-developer-portfolio)
 
 - 💬 Ask me about **React,js, Express.js , Python**
 
