@@ -63,11 +63,11 @@ function App() {
   );
   return (
     <>
-      <ParticlesBg theme={theme}/>
+      <ParticlesBg theme={theme} />
       <button
         type="button"
         onClick={handleThemeSwitch}
-        className="fixed right-20 top-4 z-10 rounded-md bg-violet-300 p-1 p-2 text-lg dark:bg-orange-300"
+        className="fixed right-20 top-4 z-10 rounded-md bg-violet-300 p-2 text-lg dark:bg-orange-300"
       >
         {theme === 'dark' ? sun : moon}
       </button>
