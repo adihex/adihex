@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Balakrishnan</h1>
-<h3 align="center">A Computer Science Engineering graduate from IIT Bhubaneswar</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Next.js, Golang, Java Spring Boot**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **React,js, Express.js , Python**
 
