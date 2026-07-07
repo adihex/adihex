@@ -37,9 +37,3 @@
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adihex&show_icons=true&hide_border=true&count_private=true" alt="adihex github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adihex&layout=compact&hide_border=true" alt="top languages" />
-</p>
